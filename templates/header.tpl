@@ -1,69 +1,81 @@
 <header id="header" class="sticky all_colors header_color light_bg_color av_header_top av_logo_center av_bottom_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon av_header_unstick_top_disabled av_header_border_disabled header-scrolled" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
-<div id="header_main" class="container_wrap container_wrap_logo">
-<div class="container av-logo-container" style="height: 0px; line-height: 0px;"><div class="inner-container"><span class="logo avia-standard-logo"><a href="https://www.zombicide.com/" class="" style="max-height: 0px;"><img height="100" width="300" alt="Zombicide" data-src="https://www.zombicide.com/wp-content/uploads/2021/11/logo-zombicide-r2.png" class=" ls-is-cached lazyloaded" src="https://www.zombicide.com/wp-content/uploads/2021/11/logo-zombicide-r2.png" style="max-height: 0px;"><noscript><img src="https://www.zombicide.com/wp-content/uploads/2021/11/logo-zombicide-r2.png" height="100" width="300" alt='Zombicide' title='logo-zombicide-r2' /></noscript></a></span><nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu-0">
-
-
-
-
-
-
-
-<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
-
-<form role=&quot;search&quot; action=&quot;https://www.zombicide.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;>
-	<div>
-		<input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; />
-		<input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' />
-			</div>
-</form>
-" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" style="height: 0px; line-height: 0px;"><span class="avia_hidden_link_text">Search</span></a></li><li class="av-language-switch-item language_en avia_current_lang current-menu-item"><a href="https://www.zombicide.com/modern-missions/#top" style="height: 0px; line-height: 0px;"><span class="language_flag"><img data-src="https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img title='English' src='https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png' /></noscript></span></a></li><li class="av-language-switch-item language_fr "><a href="https://www.zombicide.com/fr/modern-missions/" style="height: 0px; line-height: 0px;"><span class="language_flag"><img data-src="https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img title='Français' src='https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png' /></noscript></span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
-<a href="#" aria-label="Menu" aria-hidden="false" tabindex="0" style="height: 0px; line-height: 0px;">
-<span class="av-hamburger av-hamburger--spin av-js-hamburger">
-<span class="av-hamburger-box">
-<span class="av-hamburger-inner"></span>
-<strong>Menu</strong>
-</span>
-</span>
-<span class="avia_hidden_link_text">Menu</span>
-</a>
-</li></ul></div></nav></div></div><div id="header_main_alternate" class="container_wrap"><div class="container"><nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://www.zombicide.com/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li role="menuitem" id="menu-item-65164" class="menu-products menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent menu-item-top-level menu-item-top-level-2 dropdown_ul_available" style="overflow: hidden;"><a href="#" itemprop="url" tabindex="0" style="cursor: default;"><span class="avia-bullet"></span><span class="avia-menu-text">Products</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span><span class="dropdown_available"></span></a>
-<div class="avia_mega_div avia_mega5 twelve units" style="opacity: 0; display: none;">
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-67319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units  avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/western-zombicide-products/">Western Zombicide</a></span>
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-67321" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/western-zombicide-products/"><img alt="Western Zombicide" data-src="/wp-content/uploads/2022/11/menu-setting-western.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/11/menu-setting-western.jpg" alt="Western Zombicide" /></noscript></a></li>
-</ul>
-</li>
-<li role="menuitem" id="menu-item-65166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units "><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/modern-zombicide-products/">Modern Zombicide</a></span>
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-65170" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/modern-zombicide-products/"><img alt="Modern Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-modern.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-modern.jpg" alt="Modern Zombicide" /></noscript></a></li>
-</ul>
-</li>
-<li role="menuitem" id="menu-item-65167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units "><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/fantasy-zombicide-products/">Fantasy Zombicide</a></span>
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-65171" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/fantasy-zombicide-products/"><img alt="Fantasy Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-fantasy.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-fantasy.jpg" alt="Fantasy Zombicide" /></noscript></a></li>
-</ul>
-</li>
-<li role="menuitem" id="menu-item-65165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units "><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/scifi-zombicide-products/">SciFi Zombicide</a></span>
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-65169" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/scifi-zombicide-products/"><img alt="SciFi Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-scifi.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-scifi.jpg" alt="SciFi Zombicide" /></noscript></a></li>
-</ul>
-</li>
-<li role="menuitem" id="menu-item-65198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units avia_mega_menu_columns_last"><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/night-of-the-living-dead/">Night of the Living Dead</a></span>
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-65199" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/night-of-the-living-dead/"><img alt="Night of the Living Dead" data-src="/wp-content/uploads/2022/09/menu-setting-notld.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-notld.jpg" alt="Night of the Living Dead" /></noscript></a></li>
-</ul>
-</li>
-</ul><ul class="sub-menu avia_mega_hr">
-<li role="menuitem" id="menu-item-65168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_1 three units avia_mega_menu_columns_last avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/classic-zombicide-products/">Classic Zombicide</a></span>
-<ul class="sub-menu">
-<li role="menuitem" id="menu-item-65172" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/classic-zombicide-products/"><img alt="Classic Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-classic.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-classic.jpg" alt="Classic Zombicide" /></noscript></a></li>
-</ul>
-</li>
-</ul>
-</div>
-</li>
+    <div id="header_main" class="container_wrap container_wrap_logo">
+        <div class="container av-logo-container" style="height: 0px; line-height: 0px;"><div class="inner-container">
+            <span class="logo avia-standard-logo"><a href="https://www.zombicide.com/" class="" style="max-height: 0px;"><img height="100" width="300" alt="Zombicide" data-src="https://www.zombicide.com/wp-content/uploads/2021/11/logo-zombicide-r2.png" class=" ls-is-cached lazyloaded" src="https://www.zombicide.com/wp-content/uploads/2021/11/logo-zombicide-r2.png" style="max-height: 0px;"><noscript><img src="https://www.zombicide.com/wp-content/uploads/2021/11/logo-zombicide-r2.png" height="100" width="300" alt='Zombicide' title='logo-zombicide-r2' /></noscript></a></span>
+            <nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+                <div class="avia-menu av-main-nav-wrap">
+                    <ul role="menu" class="menu av-main-nav" id="avia-menu-0">
+                        <li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+                            <form role=&quot;search&quot; action=&quot;https://www.zombicide.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;>
+                                <div>
+                                    <input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; />
+                                    <input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' />
+                                        </div>
+                            </form>
+                            " aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" style="height: 0px; line-height: 0px;"><span class="avia_hidden_link_text">Search</span></a>
+                        </li>
+                        <li class="av-language-switch-item language_en avia_current_lang current-menu-item"><a href="https://www.zombicide.com/modern-missions/#top" style="height: 0px; line-height: 0px;"><span class="language_flag"><img data-src="https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img title='English' src='https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png' /></noscript></span></a></li>
+                        <li class="av-language-switch-item language_fr "><a href="https://www.zombicide.com/fr/modern-missions/" style="height: 0px; line-height: 0px;"><span class="language_flag"><img data-src="https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img title='Français' src='https://www.zombicide.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png' /></noscript></span></a></li>
+                        <li class="av-burger-menu-main menu-item-avia-special ">
+                            <a href="#" aria-label="Menu" aria-hidden="false" tabindex="0" style="height: 0px; line-height: 0px;">
+                            <span class="av-hamburger av-hamburger--spin av-js-hamburger">
+                            <span class="av-hamburger-box">
+                            <span class="av-hamburger-inner"></span>
+                            <strong>Menu</strong>
+                            </span>
+                            </span>
+                            <span class="avia_hidden_link_text">Menu</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div id="header_main_alternate" class="container_wrap">
+        <div class="container">
+            <nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+                <div class="avia-menu av-main-nav-wrap">
+                    <ul role="menu" class="menu av-main-nav" id="avia-menu">
+                        <li role="menuitem" id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://www.zombicide.com/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+                        <li role="menuitem" id="menu-item-65164" class="menu-products menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent menu-item-top-level menu-item-top-level-2 dropdown_ul_available" style="overflow: hidden;"><a href="#" itemprop="url" tabindex="0" style="cursor: default;"><span class="avia-bullet"></span><span class="avia-menu-text">Products</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span><span class="dropdown_available"></span></a>
+                            <div class="avia_mega_div avia_mega5 twelve units" style="opacity: 0; display: none;">
+                                <ul class="sub-menu">
+                                    <li role="menuitem" id="menu-item-67319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units  avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/western-zombicide-products/">Western Zombicide</a></span>
+                                        <ul class="sub-menu">
+                                            <li role="menuitem" id="menu-item-67321" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/western-zombicide-products/"><img alt="Western Zombicide" data-src="/wp-content/uploads/2022/11/menu-setting-western.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/11/menu-setting-western.jpg" alt="Western Zombicide" /></noscript></a></li>
+                                        </ul>
+                                    </li>
+                                    <li role="menuitem" id="menu-item-65166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units "><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/modern-zombicide-products/">Modern Zombicide</a></span>
+                                        <ul class="sub-menu">
+                                            <li role="menuitem" id="menu-item-65170" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/modern-zombicide-products/"><img alt="Modern Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-modern.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-modern.jpg" alt="Modern Zombicide" /></noscript></a></li>
+                                        </ul>
+                                    </li>
+                                    <li role="menuitem" id="menu-item-65167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units "><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/fantasy-zombicide-products/">Fantasy Zombicide</a></span>
+                                        <ul class="sub-menu">
+                                            <li role="menuitem" id="menu-item-65171" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/fantasy-zombicide-products/"><img alt="Fantasy Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-fantasy.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-fantasy.jpg" alt="Fantasy Zombicide" /></noscript></a></li>
+                                        </ul>
+                                    </li>
+                                    <li role="menuitem" id="menu-item-65165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units "><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/scifi-zombicide-products/">SciFi Zombicide</a></span>
+                                        <ul class="sub-menu">
+                                            <li role="menuitem" id="menu-item-65169" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/scifi-zombicide-products/"><img alt="SciFi Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-scifi.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-scifi.jpg" alt="SciFi Zombicide" /></noscript></a></li>
+                                        </ul>
+                                    </li>
+                                    <li role="menuitem" id="menu-item-65198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_5 three units avia_mega_menu_columns_last"><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/night-of-the-living-dead/">Night of the Living Dead</a></span>
+                                        <ul class="sub-menu">
+                                            <li role="menuitem" id="menu-item-65199" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/night-of-the-living-dead/"><img alt="Night of the Living Dead" data-src="/wp-content/uploads/2022/09/menu-setting-notld.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-notld.jpg" alt="Night of the Living Dead" /></noscript></a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <ul class="sub-menu avia_mega_hr">
+                                    <li role="menuitem" id="menu-item-65168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_1 three units avia_mega_menu_columns_last avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="https://www.zombicide.com/classic-zombicide-products/">Classic Zombicide</a></span>
+                                        <ul class="sub-menu">
+                                            <li role="menuitem" id="menu-item-65172" class="avia_mega_text_block menu-item menu-item-type-post_type menu-item-object-page"><a href="/en/classic-zombicide-products/"><img alt="Classic Zombicide" data-src="/wp-content/uploads/2022/09/menu-setting-classic.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2022/09/menu-setting-classic.jpg" alt="Classic Zombicide" /></noscript></a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
 <li role="menuitem" id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent menu-item-top-level menu-item-top-level-3 dropdown_ul_available" style="overflow: hidden;"><a href="#" itemprop="url" tabindex="0" style="cursor: default;"><span class="avia-bullet"></span><span class="avia-menu-text">Galleries</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span><span class="dropdown_available"></span></a>
 <div class="avia_mega_div avia_mega6 twelve units" style="opacity: 0; display: none;">
 <ul class="sub-menu">
